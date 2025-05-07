@@ -1,12 +1,22 @@
-# LANGUAGE-TRANSLATOR
-A simple and user-friendly desktop language translator app built with Python’s Tkinter library and googletrans API.
-Translate text instantly between dozens of languages with an easy-to-use graphical interface.
+# 🈯 Language Translator (Tkinter GUI)
 
-Features
+This is a simple desktop GUI language translator built with Python's Tkinter and Google Translate API via the `googletrans` library. It allows translation of text between various languages with just a few clicks.
+
+## 🌟 Features
+
 - Translate text between 100+ languages
+- User-friendly interface
+- Built using Python and Tkinter
+- Uses `googletrans` for translation
 
-- Clean, intuitive GUI built with Tkinter
+## 🛠 Requirements
 
-- Select source and destination languages from dropdowns
+Install dependencies using pip:
 
-- Fast and lightweight
+```bash
+pip install -r requirements.txt
+
+
+
+AUTHOR
+Saurav Kunwar
