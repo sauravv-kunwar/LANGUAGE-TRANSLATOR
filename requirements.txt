@@ -1,0 +1,9 @@
+requirements.txt
+ini
+Copy
+Edit
+googletrans==4.0.0-rc1
+📌 Notes:
+tkinter is included with Python, so you don’t need to list it.
+
+The most stable release of googletrans for this kind of app is the release candidate 4.0.0-rc1, as the default latest version often breaks due to API changes.
