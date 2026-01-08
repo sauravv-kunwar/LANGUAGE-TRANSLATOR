@@ -55,3 +55,4 @@ Dest_txt = Text(frame, font=("Time New Roman", 15, "bold"), wrap=WORD)
 Dest_txt.place(x=10, y=400, height=150, width=480)
 
 root.mainloop()
+
