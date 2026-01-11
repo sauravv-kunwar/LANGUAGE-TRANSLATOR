@@ -9,10 +9,4 @@ This is a simple desktop GUI language translator built with Python's Tkinter and
 - Built using Python and Tkinter
 - Uses `googletrans` for translation
 
-## 🛠 Requirements
-
-Install dependencies using pip:
-
-```bash
-pip install -r requirements.txt
 
